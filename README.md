@@ -152,4 +152,4 @@ Vagrant.configure("2") do |config|
 	config.vm.provision "shell", privileged: false, path: "./init.sh"
 end
 ```
-### [github 源码地址](https://github.com/niuzheng131400/vagrant-virtualbox-ansible-init)
+### [ansible 环境准备博客地址](https://niuzheng.net/archives/2815/)
